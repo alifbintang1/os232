@@ -1,10 +1,4 @@
-# START: Tue 29 Aug 2023 13:07
-# ##########################################
-# https://osp4diss.vlsm.org/ETC/logCodes.txt
-# ##########################################
-#
 # Log Format
-# ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
-
-L00 General, etc.
+# ZCZC WEEK# MINUTES# LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 10 L03 GitHub related
