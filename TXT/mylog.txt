@@ -14,3 +14,4 @@ ZCZC W01 200 L02 OS Class Week 1
 ZCZC W02 120 L06 Study for 3rd Quiz OS
 ZCZC W02 15 L05 3rd Quiz OS
 ZCZC W02 200 L02 OS Class
+ZCZC W02 120 L12 Assignment 2 Done
