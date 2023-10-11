@@ -17,4 +17,7 @@ The website for learning operating systems, it provides material in structured f
 The beginner friendly website that provides explanation of operating system
 
 5. [Oracle](https://www.oracle.com/id/cloud/compute/virtual-machines/what-is-virtual-machine/#:~:text=Oracle%20VM%20gives%20users%20the,deployed%2C%20with%20support%20from%20Oracle.)<br>
-The website that explains virtual machine in understandable language 
+The website that explains virtual machine in understandable language
+
+6. [DewaWeb](https://www.dewaweb.com/blog/apa-itu-virtual-machine/)<br>
+Introduction to virtual machine and its function
