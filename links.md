@@ -21,3 +21,7 @@ The website that explains virtual machine in understandable language
 
 6. [DewaWeb](https://www.dewaweb.com/blog/apa-itu-virtual-machine/)<br>
 Introduction to virtual machine and its function
+
+7. [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br/>
+The website explores the notions of threads and concurrency in operating systems by elucidating their definitions, various types, and distinctive attributes.
+

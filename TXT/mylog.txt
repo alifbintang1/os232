@@ -31,3 +31,8 @@ ZCZC W05 100 L15 Assignment 5 Done
 ZCZC W05 15 L05 5th Quiz
 ZCZC W05 180 L06 Study for 5th Quiz OS
 ZCZC W05 30 L06 GSGS about Debian Backup
+
+ZCZC W06 200 L02 OS Class
+ZCZC W06 100 L16 Assignment 6 Done
+ZCZC W06 15 L05 6th Quiz
+ZCZC W06 150 L06 Study for 6th Quiz OS
