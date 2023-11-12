@@ -36,3 +36,8 @@ ZCZC W06 200 L02 OS Class
 ZCZC W06 100 L16 Assignment 6 Done
 ZCZC W06 15 L05 6th Quiz
 ZCZC W06 150 L06 Study for 6th Quiz OS
+
+ZCZC W07 200 L02 OS Class
+ZCZC W07 100 L17 Assignment 7 Done
+ZCZC W07 15 L05 7th Quiz
+ZCZC W07 150 L06 Study for 7th Quiz OS

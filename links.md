@@ -25,3 +25,6 @@ Introduction to virtual machine and its function
 7. [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br/>
 The website explores the notions of threads and concurrency in operating systems by elucidating their definitions, various types, and distinctive attributes.
 
+8. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+This website explains about process synchronization in an understandable language.
+
