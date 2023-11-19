@@ -28,3 +28,5 @@ The website explores the notions of threads and concurrency in operating systems
 8. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
 This website explains about process synchronization in an understandable language.
 
+9. [Best Video Linux](https://www.youtube.com/watch?v=uggsnHSELos)<br>
+This video explains about linux for beginner
